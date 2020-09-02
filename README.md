@@ -2,6 +2,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+# Fork Modifications
+
+Add support of PHP 7.4.0
+
 # FireGento ExtendedImport Extension
 
 Extended Import Features (ported from AvS_FastSimpleImport)
